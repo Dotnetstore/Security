@@ -4,6 +4,14 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Dotnetstore Security</Title>
+        <Authors>Dotnetstore (Hans Sjödin)</Authors>
+        <Description>Containing hash and encryption functionality.</Description>
+        <Copyright>Dotnetstore (Hans Sjödin)</Copyright>
+        <PackageProjectUrl>https://github.com/Dotnetstore/Security</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Dotnetstore/Security?tab=MIT-1-ov-file</PackageLicenseUrl>
+        <PackageTags>encryption,hash,security</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>

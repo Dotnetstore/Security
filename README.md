@@ -1,5 +1,5 @@
 # Dotnetstore.Security
-
+[![.NET](https://github.com/Dotnetstore/Security/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Dotnetstore/Security/actions/workflows/dotnet.yml)
 `Dotnetstore.Security` is a NuGet package that provides utilities for cryptographic operations, including hashing, symmetric encryption, and asymmetric encryption. It is designed to integrate seamlessly with .NET applications and supports dependency injection via `IServiceCollection`.
 
 ## Features
